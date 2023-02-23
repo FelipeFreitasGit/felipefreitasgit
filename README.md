@@ -1,7 +1,1 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipefreitasgit/felipefreitasgit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipefreitasgit/felipefreitasgit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipefreitasgit/felipefreitasgit/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [felipefreitasgit/snk](https://github.com/felipefreitasgit/snk)_
+![snake gif](https://github.com/felipefreitasgit/felipefreitasgit/blob/output/github-contribution-grid-snake.gif)
